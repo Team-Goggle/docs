@@ -1,4 +1,4 @@
-# Goggle
+# Goggle Ground Rules
 
 ### **📈 성장 지향**
 
