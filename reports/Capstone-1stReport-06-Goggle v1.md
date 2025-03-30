@@ -24,8 +24,8 @@
 # Project-Design & Implementation
 | 항목 | 내용 |
 |:---  |---  |
-| (1) 요구사항 정의 | ![Image](https://github.com/user-attachments/assets/c3e0d82b-5fb0-4e88-b364-32470d433eba) |
-| (2) 전체 시스템 구성 | *프로젝트를 위하여, SW 전체 시스템의 구조를 보인다. (가능하다면, 사용자도 포함) <br> 주요 SW 모듈을 보이고, 각각의 역할을 기술한다. <br>만약, 오픈소스 혹은 외부 모듈을 사용한다면 이또한 기술한다.* |
+| (1) 요구사항 정의 | ![Image](https://github.com/user-attachments/assets/c3e0d82b-5fb0-4e88-b364-32470d433eba) <br> ![Image](https://github.com/user-attachments/assets/85adf532-b9f5-4ab1-b676-956d614e03d6) |
+| (2) 전체 시스템 구성 | ![Image](https://github.com/user-attachments/assets/ee5dbf07-25ae-49bd-8939-0d1cb93dee90) |
 | (3) 주요엔진 및 기능 설계 | *프로젝트의 주요 기능 혹은 모듈의 설계내용에 대하여 기술한다 <br> SW 구조 그림에 있는 각 Module의 상세 구현내용을 자세히 기술한다.* |
 | (4) 주요 기능의 구현 | *<주요기능리스트>에 정의된 기능 중 최소 2개 이상에 대한 상세 구현내용을 기술한다.* |
 | (5) 기타 | *기타 사항을 기술*  |
